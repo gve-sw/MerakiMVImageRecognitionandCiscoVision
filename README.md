@@ -1,16 +1,8 @@
 # MerakiMVImageRecognitionandCiscoVision
 Automatic process to detect age and sex for people on Meraki MV camera by using AWS Image Recognition. Then automatic trigger to Cisco Vision according to the person.
 
-
-
-
-
-
-| :exclamation:  External repository notice   |
-|:---------------------------|
-| This repository is now mirrored at "PLEASE UPDATE HERE - add External repo URL after code review is completed"  Please inform a https://github.com/gve-sw/ organization admin of any changes to mirror them to the external repo |
 ## Contacts
-* Eda Akturk (eakturk@cisco.com)
+* Eda Akturk
 
 ## Solution Components
 *  Python 3.8
